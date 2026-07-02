@@ -98,29 +98,6 @@
 
 # 📂 Featured Projects
 
-## 🤖 AI Resume Analyzer
-
-✔ Resume Parsing
-
-✔ ATS Score
-
-✔ Skill Gap Analysis
-
-✔ AI Suggestions
-
----
-
-## 💬 AI Chatbot
-
-✔ LLM Integration
-
-✔ Context Memory
-
-✔ Natural Conversations
-
-✔ RAG Support
-
----
 
 ## 📝 Smart Notes App
 
@@ -203,15 +180,15 @@
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="www.linkedin.com/in/hemalatha-g-174063366">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="YOUR_PORTFOLIO_URL](https://hemalatha-protfolio.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="hemalatha.csetech@gmail.com">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
